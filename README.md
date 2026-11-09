@@ -20,3 +20,12 @@ Here are some ideas to get you started:
   <img src="https://vercel.app.ashvxv&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://vercel.app.ashvxv&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+<!-- Tech Stack & Connect Badges -->
+### 🛠️ Tech Stack & Socials
+<p align="left">
+  <img src="https://shields.io" alt="JS"/>
+  <img src="https://shields.io" alt="Python"/>
+  <a href="https://linkedin.com/in/[YourLinkedIn]">
+    <img src="https://shields.io" alt="LinkedIn"/>
+  </a>
+</p>
