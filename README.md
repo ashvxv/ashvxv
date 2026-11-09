@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Live GitHub Stats -->
+### 📊 My Coding Statistics
+<p align="center">
+  <img src="https://vercel.app.ashvxv&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://vercel.app.ashvxv&layout=compact&theme=radical" alt="Top Languages" />
+</p>
